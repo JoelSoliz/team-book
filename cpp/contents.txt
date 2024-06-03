@@ -2,6 +2,9 @@
 template.cpp	Template
 
 [Graph]
+graph/BFS.cpp BFS Algorithm
+graph/DFS.cpp DFS Algorithm
+graph/FloodFill.cpp FloodFill Algorithm
 graph/Dijkstra.cpp	Dijkstra's Algorithm
 graph/FloydWarshall.cpp	Floyd Warshall's Algorithm
 graph/Kruskal.cpp	MST (Kruskal's Algorithm)
