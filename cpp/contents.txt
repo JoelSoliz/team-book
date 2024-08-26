@@ -2,10 +2,16 @@
 template.cpp	Template
 
 [Graph]
-graph/BFS.cpp BFS Algorithm
-graph/DFS.cpp DFS Algorithm
-graph/FloodFill.cpp FloodFill Algorithm
+graph/BFS.cpp	BFS Algorithm
+graph/DFS.cpp	DFS Algorithm
+graph/FloodFill.cpp	FloodFill Algorithm
 graph/Dijkstra.cpp	Dijkstra's Algorithm
 graph/FloydWarshall.cpp	Floyd Warshall's Algorithm
 graph/Kruskal.cpp	MST (Kruskal's Algorithm)
 graph/UnionFind.cpp	Union Find Structure
+
+[DFS]
+dp/coin_change.cpp	Coin Change
+dp/knapsack.cpp	knapsack
+dp/longest_common_subsequence.cpp	Longest Common Subsequence
+dp/longest_increasing_subsequence.cpp	Longest Increasing Subsequences
