@@ -1,5 +1,5 @@
 # ICPC-Notebook
-Notebook for INSA Lyon teams at ACM ICPC.
+Notebook for Mathreex team at ACM ICPC.
 
 # Usage
 C++ and Python notebook files are located in the cpp/ and python/ directories, respectively.
