@@ -12,6 +12,14 @@ graph/UnionFind.cpp	Union Find Structure
 
 [DFS]
 dp/coin_change.cpp	Coin Change
-dp/knapsack.cpp	knapsack
+dp/knapsack.cpp	Knapsack
 dp/longest_common_subsequence.cpp	Longest Common Subsequence
 dp/longest_increasing_subsequence.cpp	Longest Increasing Subsequences
+
+[Query]
+query/prefix_sum.cpp	Prefix sum
+query/prefix_sum_2d.cpp	Prefix sum 2D
+query/fenwick_tree.cpp	Fenwick Tree
+query/fenwick_tree_2d.cpp	Fenwick Tree 2D
+query/general_segtree.cpp	General Segtree
+query/sum_lazytree.cpp	Sum Lazytree
