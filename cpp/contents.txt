@@ -23,3 +23,10 @@ query/fenwick_tree.cpp	Fenwick Tree
 query/fenwick_tree_2d.cpp	Fenwick Tree 2D
 query/general_segtree.cpp	General Segtree
 query/sum_lazytree.cpp	Sum Lazytree
+
+[Strings]
+strings/kmp.cpp	KMP
+strings/algorithm_z.cpp	Algorithm Z
+strings/rabin_karp.cpp	Rabin Karp
+strings/aho_corasick.cpp	Aho-Corasick
+strings/hashing.cpp	Hashing
