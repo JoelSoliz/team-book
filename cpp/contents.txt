@@ -30,3 +30,5 @@ strings/algorithm_z.cpp	Algorithm Z
 strings/rabin_karp.cpp	Rabin Karp
 strings/aho_corasick.cpp	Aho-Corasick
 strings/hashing.cpp	Hashing
+strings/manacher.cpp	Manacher
+strings/suffix_array.cpp	Suffix Array
