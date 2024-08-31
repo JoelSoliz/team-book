@@ -24,6 +24,13 @@ query/fenwick_tree_2d.cpp	Fenwick Tree 2D
 query/general_segtree.cpp	General Segtree
 query/sum_lazytree.cpp	Sum Lazytree
 
+[Geometry]
+geometry/2DLibrary.cpp	2D Library
+geometry/3DLibrary.cpp	3D Library
+geometry/closest_points.cpp	Closest points
+geometry/convex_hull.cpp	Convex Hull
+geometry/point_in_convex_polygon.cpp	Point in convex polygon
+
 [Strings]
 strings/kmp.cpp	KMP
 strings/algorithm_z.cpp	Algorithm Z
