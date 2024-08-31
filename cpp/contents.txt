@@ -31,6 +31,33 @@ geometry/closest_points.cpp	Closest points
 geometry/convex_hull.cpp	Convex Hull
 geometry/point_in_convex_polygon.cpp	Point in convex polygon
 
+[Math]
+math/basics.cpp	Basics
+math/advanced.cpp	Advanced
+math/discrete_log.cpp	Discrete log
+math/euler_phi.cpp	Euler Phi
+math/extended_euclid.cpp	Extended euclid
+math/fft.cpp	FFT
+math/fft_tourist.cpp	FFT Tourist
+math/fwht.cpp	FWHT
+math/gauss_elim.cpp	Gauss elim
+math/gauss_elim_ext.cpp	Gauss elim ext
+math/gauss_elim_prime.cpp	Gauss elim prime
+math/gauss_elim_xor.cpp	Gauss elim xor
+math/gss.cpp	GSS
+math/josephus.cpp	Josephus
+math/matrix.cpp	Matrix
+math/mobius.cpp	Mobius
+math/mobius_inversion.cpp	Mobius inversion
+math/ntt.cpp	NTT
+math/pollard_rho.cpp	Pollard rho
+math/pollard_rho_optimization.cpp	Pollard rho optimization
+math/prime_factors.cpp	Prime factors
+math/primitive_root.cpp	Primitive root
+math/sieve.cpp	Sieve
+math/simpson_rule.cpp	Simpson rule
+math/stanford_simplex.cpp	Stanford simplex
+
 [Strings]
 strings/kmp.cpp	KMP
 strings/algorithm_z.cpp	Algorithm Z
