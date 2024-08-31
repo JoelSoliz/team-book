@@ -79,6 +79,11 @@ math/pollard_rho.cpp	Pollard rho
 math/pollard_rho_optimization.cpp	Pollard rho optimization
 math/prime_factors.cpp	Prime factors
 math/primitive_root.cpp	Primitive root
+math/binomial_coeﬃcients.cpp Binomial Coeﬃcients
+math/miller_rabin.cpp Miller Rabin
+math/pascal.cpp Pascal
+math/segmented_sieve.cpp Segmented Sieve
+math/dynamic_connectivity.cpp Dynamic Connectivity
 math/sieve.cpp	Sieve
 math/simpson_rule.cpp	Simpson rule
 math/stanford_simplex.cpp	Stanford simplex
