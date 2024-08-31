@@ -9,6 +9,31 @@ graph/Dijkstra.cpp	Dijkstra's Algorithm
 graph/FloydWarshall.cpp	Floyd Warshall's Algorithm
 graph/Kruskal.cpp	MST (Kruskal's Algorithm)
 graph/UnionFind.cpp	Union Find Structure
+graph/2_sat_kosaraju.cpp	2-SAT Kosaraju
+graph/2_sat_tarjan.cpp	2-SAT Tarjan
+graph/bellman_ford.cpp	Bellman Ford
+graph/block_cut.cpp	Block cut
+graph/bridges_and_articulations.cpp	Bridges and articulations
+graph/dinic.cpp	Dinic
+graph/dominator_tree.cpp	Dominator tree
+graph/erdos_gallai.cpp	Erdos gallai
+graph/eulerian_path.cpp	Eulerian path
+graph/fast_kuhn.cpp	Fast Kuhn
+graph/find_cycle_3_4.cpp	Find cycl 3 4
+graph/hungarian.cpp	Hungarian
+graph/hungarian_navarro.cpp	Hungarian navarro
+graph/kahn.cpp	Kahn
+graph/kosaraju.cpp	Kosaraju
+graph/kuhn.cpp	Kuhn
+graph/lca.cpp	LCA
+graph/max_weight_lca.cpp	Max weight LCA
+graph/min_cost_max_flow.cpp	Min cost max flow
+graph/prim.cpp	Prim
+graph/small_to_large.cpp	Small to large
+graph/spfa.cpp	SPFA
+graph/stanford_stoer_wagner.cpp	Stanford Stoer Wagner
+graph/tarjan.cpp	Tarjan
+graph/zero_one_bfs.cpp	Zero one BFS
 
 [DFS]
 dp/coin_change.cpp	Coin Change
