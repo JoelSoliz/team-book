@@ -61,7 +61,6 @@ void printArr(int arr[], int n)
 	cout << endl;
 }
 
-// Driver program to test above functions
 void solve() {
 	char txt[] = "banana";
 	int n = strlen(txt);
