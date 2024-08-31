@@ -34,6 +34,9 @@ graph/spfa.cpp	SPFA
 graph/stanford_stoer_wagner.cpp	Stanford Stoer Wagner
 graph/tarjan.cpp	Tarjan
 graph/zero_one_bfs.cpp	Zero one BFS
+graph/bridges.cpp Bridges
+graph/number_of_spanning_trees.cpp Number Of Spanning Trees
+graph/tree_binarization.cpp Tree Binarization
 
 [DFS]
 dp/coin_change.cpp	Coin Change
